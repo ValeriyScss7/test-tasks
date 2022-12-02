@@ -104,7 +104,7 @@
 .promo__wrap::after {
   content: "";
   display: block;
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(0, 0, 0, 0.7);
   position: absolute;
   top: 0;
   left: 0;
@@ -545,7 +545,7 @@
     font-size: 40px;
   }
 }
-@media (max-width: 480px) {
+@media (max-width: 740px) {
   .promo__wrap__content h1 {
     font-size: 20px;
   }
@@ -690,7 +690,7 @@
     font-size: 12px;
   }
 }
-@media (max-width: 375px) {
+@media (max-width: 460px) {
   .promo__wrap__content h1 {
     font-size: 16px;
   }

@@ -126,7 +126,7 @@
 .promo__wrap::after {
     content: '';
     display: block;
-    background-color: rgba(0, 0, 0, .9);
+    background-color: rgba(0, 0, 0, .7);
     position: absolute;
     top: 0;
     left: 0;
@@ -709,7 +709,7 @@
     }
 }
 
-@media(max-width:480px) {
+@media(max-width:740px) {
     .promo {
         &__wrap {
             &__content {
@@ -952,7 +952,7 @@
     }
 }
 
-@media(max-width:375px) {
+@media(max-width:460px) {
     .promo {
         &__wrap {
             &__content {
